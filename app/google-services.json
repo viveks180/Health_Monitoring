@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "76499905325",
+    "firebase_url": "https://health-monitoring-cbe96.firebaseio.com",
+    "project_id": "health-monitoring-cbe96",
+    "storage_bucket": "health-monitoring-cbe96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76499905325:android:cb3589fb7075a9a9",
+        "android_client_info": {
+          "package_name": "com.healthmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76499905325-2cvvcpm61srap85dathtph6t5jj6m5qp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthmonitoring",
+            "certificate_hash": "54a30268d3918d20e89eeff0193d9f137a735442"
+          }
+        },
+        {
+          "client_id": "76499905325-dqdoabuur10i2vn8tcmtaejuhruqg281.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBacU-DY1iHwBSuRfmBen_GdmNyvyJaGls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76499905325-dqdoabuur10i2vn8tcmtaejuhruqg281.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
